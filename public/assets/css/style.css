@@ -7,7 +7,7 @@
 }
 
 .jumbotron > h1 {
-    font-family: 'Creepster', cursive;
+    font-family: 'Righteous', cursive;
 }
 
 #newburger {
@@ -19,7 +19,7 @@
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color:#0062cc;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -30,7 +30,7 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
+    background-color: #FED141;
     color: white;
     text-align: center;
     font-size: 1.2em;
